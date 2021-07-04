@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data science
 - 🤔 I’m looking for help with Artificial Intelligence Techniques
 - 💬 Ask me about Innovative Project Ideas
-- 📫 How to reach me: > Linkedin Profile - [Linkedin](https://www.linkedin.com/in/subhojit-kayal-334881137/).
+- 📫 How to reach me: > Linkedin Profile - [Linkedin](https://www.linkedin.com/in/subhojit-kayal-334881137/). Gmail ID - subhojit.kayal42@gmail.com
 - 😄 Pronouns: Sports lover
 - ⚡ Fun fact: Guitarist, Pencil Sketch Artist
 -->
