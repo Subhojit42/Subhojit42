@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Subhojit42/Subhojit42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Amazon Stock price data analysis and forecasting
+- 🌱 I’m currently learning Machine learning and Data science
+- 👯 I’m looking to collaborate on Data science
+- 🤔 I’m looking for help with Artificial Intelligence Techniques
+- 💬 Ask me about Innovative Project Ideas
+- 📫 How to reach me: > Linkedin Profile - [Linkedin](https://www.linkedin.com/in/subhojit-kayal-334881137/).
+- 😄 Pronouns: Sports lover
+- ⚡ Fun fact: Guitarist, Pencil Sketch Artist
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Subhojit42&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
