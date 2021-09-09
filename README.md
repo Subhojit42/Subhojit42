@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Amazon Stock price data analysis and forecasting
+- 🔭 I’m currently working on Covid-19 Proteomics dataset for severe and non-severe patient classification.
 - 🌱 I’m currently learning Machine learning and Data science
 - 👯 I’m looking to collaborate on Data science
 - 🤔 I’m looking for help with Artificial Intelligence Techniques
