@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Financial works
 - 🤔 I’m looking for help with Deep learning Techniques
 - 💬 Ask me about Innovative data science Project Ideas
-- 📫 How to reach me: > Linkedin Profile - [Linkedin](https://www.linkedin.com/in/subhojit-kayal-334881137/). website: [portfolio](https://subhojit42.github.io/Subhojit_portfolio/) , >stack Id - [StackOverflow](https://stackoverflow.com/users/16386618/subhojit-kayal?tab=profile)., Reddit Id - [Reddit](https://www.reddit.com/user/Subhojit_analyst)
+- 📫 How to reach me: > Linkedin Profile - [Linkedin](https://www.linkedin.com/in/subhojit-kayal-334881137/). website: [portfolio](https://subhojit42.github.io/Subhojit_portfolio/) , >stack Id - [StackOverflow](https://stackoverflow.com/users/16386618/subhojit-kayal?tab=profile)., Reddit Id - [Reddit](https://www.reddit.com/user/Subhojit_analyst), Medium ID- [Medium](https://medium.com/@subhojit.kayal42)
 - 😄 Pronouns: Sports lover
 - ⚡ Fun fact: Guitarist, Pencil Sketch Artist
 -->
